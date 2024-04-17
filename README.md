@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About the application
+
+Insights gathered from a diverse user base through extensive surveys have highlighted key challenges in healthcare administration, including medication non-adherence, lack of transparency in appointment wait times, and difficulty in tracking activities and symptoms. To address these issues, our solution introduces automated medication reminders and a separate medications page, live wait time tracking, and integration of various healthcare tasks into a unified system within the MyChart application. Through user studies, we aim to assess the effectiveness of these enhancements in reducing medication setup time, improving user experience during wait times, and enhancing overall satisfaction and efficiency in healthcare tasks, ultimately optimizing the MyChart application for a wide range of users and improving health outcomes.
+
 ## Available Scripts
 
 In the project directory, you can run:
